@@ -1,0 +1,88 @@
+# =========================
+# GENERAL / OS / EDITOR
+# =========================
+
+# Linux
+~*
+*.swp
+*.swo
+
+# IDEs & Editors
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sublime-project
+*.sublime-workspace
+
+
+# =========================
+# FRONTEND: REACT / NODE.JS
+# =========================
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Production build / output
+build/
+dist/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+bun.log*
+*.log
+
+# Testing & Coverage
+coverage/
+.nyc_output/
+
+# Misc
+.parcel-cache/
+.eslintcache
+.stylelintcache
+
+
+# =========================
+# BACKEND: RUST / CARGO
+# =========================
+# Cargo generated compiled files and executables
+/target/
+Cargo.lock
+
+# Rustfmt backup files
+*.rs.bk
+
+# MSVC Windows build debugging files
+*.pdb
+
+# Cargo mutants mutation testing data
+**/mutants.out*/
+
+# Rustc internal compiler error stack dump files
+rustc-ice-*.txt
+
+# Environment variables for Rust
+.env.rust
+
+
+# =========================
+# DOCKER & DEPLOYMENT (OPSIONAL)
+# =========================
+*.pem
+*.key
+docker-data/
