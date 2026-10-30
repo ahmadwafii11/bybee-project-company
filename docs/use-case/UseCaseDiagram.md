@@ -1,4 +1,4 @@
-# ByBee Project — Use Case & Alur Sistem
+# ByBee Career — Use Case & Alur Sistem
 
 > Dokumen pendamping [`UseCase.md`](./UseCase.md) (keputusan, ID use case, aturan akses). Dokumen ini menyempurnakan bagian *Desain Sistem* di plan awal. Semua diagram memakai [Mermaid](https://mermaid.js.org/) dan tampil otomatis di GitHub/GitLab.
 > Nama tabel dan status mengacu ke `backend/migrations` dan `docs/erd/erd.md`.
@@ -41,7 +41,7 @@ flowchart LR
     PG([Payment Gateway])
     NP([Penyedia Email / WA])
 
-    subgraph SYS[Sistem ByBee Project]
+    subgraph SYS[Sistem ByBee Career]
         direction TB
         UC1(Daftar & Verifikasi Akun)
         UC2(Login / Logout)

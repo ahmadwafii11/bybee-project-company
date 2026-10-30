@@ -1,11 +1,11 @@
-# Definisi, Visi, dan Misi ByBee Project
+# Definisi, Visi, dan Misi ByBee Career
 
 **Status:** Draf yang sudah diselaraskan dengan `RancanganPaket.md`, `UseCase.md`, dan `Erd.md`
 **Terakhir diperbarui:** 28 Oktober 2026
 
 ## 1. Definisi
 
-ByBee Project merupakan platform karier digital. Pengguna dapat membuat **CV dan portofolio profesional**, lalu **melamar lowongan** di platform yang sama. Perusahaan dapat **memasang lowongan dan mengelola pelamar** dari satu dashboard.
+ByBee Career merupakan platform karier digital. Pengguna dapat membuat **CV dan portofolio profesional**, lalu **melamar lowongan** di platform yang sama. Perusahaan dapat **memasang lowongan dan mengelola pelamar** dari satu dashboard.
 
 Cakupan produk utama:
 

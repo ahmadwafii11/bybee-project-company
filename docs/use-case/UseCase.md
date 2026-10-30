@@ -1,4 +1,4 @@
-# ByBee Project — Use Case Documentation
+# ByBee Career — Use Case Documentation
 
 **Status:** Baseline v1.1 (open decisions resolved; items marked *confirm* need owner approval)
 **Last updated:** 28 October 2026

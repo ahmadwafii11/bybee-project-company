@@ -1,9 +1,9 @@
-# Rancangan Paket ByBee Project
+# Rancangan Paket ByBee Career
 
 **Status:** Draf yang bisa langsung diimplementasikan. Semua angka bertanda *usulan* adalah hipotesis yang perlu diuji, bukan data pasar.
 **Terakhir diperbarui:** 28 Oktober 2026
 
-Model bisnis ByBee Project dalam mengambil keuntungan dari layanan platform. Beberapa sumber pendapatan di bawah ini akan diuji.
+Model bisnis ByBee Career dalam mengambil keuntungan dari layanan platform. Beberapa sumber pendapatan di bawah ini akan diuji.
 
 ## 1. Prinsip
 

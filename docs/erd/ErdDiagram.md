@@ -1,4 +1,4 @@
-# ByBee Project — Entity Relationship Diagram (ERD)
+# ByBee Career — Entity Relationship Diagram (ERD)
 
 > Sumber: `bybee_erd_schema.sql` (PostgreSQL, 25 tabel) ditambah 4 tabel baru. Dokumen pendamping [`Erd.md`](./Erd.md) (keputusan dan aturan). Tabel baru (`sessions`, `verification_codes`, `job_stats_daily`, `payment_events`) dan kolom baru ditulis di bagian 10, belum tampil di diagram per domain di bawah.
 > Diagram hanya menampilkan **kolom kunci** (PK, FK, kolom penting) agar tetap terbaca. Daftar kolom lengkap ada di file SQL.

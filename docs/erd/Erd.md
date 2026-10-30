@@ -1,4 +1,4 @@
-# ByBee Project — ERD Documentation
+# ByBee Career — ERD Documentation
 
 **Status:** Baseline v1.1 logical model
 **Database target:** PostgreSQL

@@ -1,15 +1,15 @@
-# ByBee Project — Business Plan
+# ByBee Career — Business Plan
 
 > Dokumen terkait: [`VisiMisi.md`](./VisiMisi.md), [`RancanganPaket.md`](./RancanganPaket.md). Bila angka paket berbeda, **`RancanganPaket.md` yang berlaku**.
 
-> Versi: 1.0 (draft yang disempurnakan dari *ByBee Project Plan.docx*)
+> Versi: 1.0 (draft yang disempurnakan dari *ByBee Career Plan.docx*)
 > Status: hipotesis yang perlu divalidasi. Angka harga dan proyeksi adalah **asumsi**, bukan fakta pasar.
 
 ---
 
 ## 1. Ringkasan Eksekutif
 
-**ByBee Project** adalah platform karier all-in-one untuk pasar Indonesia. Pengguna dapat membuat **CV/resume interaktif** (berbasis template, ramah ATS), membangun **portofolio online**, lalu langsung **melamar lowongan** di platform yang sama. Perusahaan memasang lowongan dan mencari kandidat dari satu dashboard.
+**ByBee Career** adalah platform karier all-in-one untuk pasar Indonesia. Pengguna dapat membuat **CV/resume interaktif** (berbasis template, ramah ATS), membangun **portofolio online**, lalu langsung **melamar lowongan** di platform yang sama. Perusahaan memasang lowongan dan mencari kandidat dari satu dashboard.
 
 **Pembeda utama:** CV + portofolio + lamaran berada dalam satu alur. Saat melamar, HRD melihat CV *dan* portofolio kandidat tanpa berpindah platform. Bagi desainer, developer, dan fresh graduate, portofolio sering menentukan lolos atau tidaknya seleksi.
 

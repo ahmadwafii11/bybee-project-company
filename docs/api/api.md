@@ -1,4 +1,4 @@
-# ByBee Project — API Documentation
+# ByBee Career — API Documentation
 
 **Status:** API design baseline v1.1 (conventions decided; endpoints still to be implemented)
 **Backend:** Rust + Axum
