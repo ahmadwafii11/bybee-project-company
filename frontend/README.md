@@ -1,0 +1,5 @@
+- npm create vite --template react-ts@latest
+- pnpm dev
+- pnpm add react-router-dom
+- pnpm add lucide-react
+- pnpm add -D tailwindcss@latest @tailwindcss/vite@latest
